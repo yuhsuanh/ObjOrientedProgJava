@@ -21,7 +21,7 @@ public class Assignment1 {
          */
         /*    I will manually add marks to display your name and student no.*/
         System.out.println("~TEST 1~");
-        System.out.println("Display your name and Student No. here:  \n\n");
+        System.out.println("Display your name and Student No. here: Yu-Hsuan Huang 200443723 \n\n");
 
         /**
          * ******************
